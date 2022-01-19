@@ -1,3 +1,5 @@
+import { Loader } from "./components"
+
 const App =()=> {
 
 
